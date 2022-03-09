@@ -1,0 +1,16 @@
+
+body{
+  text-align: center;
+}
+.ncyu{
+  border: solid 1px red;
+  display: inline;
+  color: white;
+  background: red;
+  font-size: 30px;
+
+
+}
+h2{
+  color: green;
+}
